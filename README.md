@@ -20,5 +20,6 @@ This application is designed to provide users with a range of powerful AI-driven
 - Remove Backgound (remove.bg) ✔
 - Code Generator (textcortex) ✔
 - Translator (textcortex) ✔
-
+- Aduio Features ⏳
+  
 
